@@ -1,4 +1,8 @@
 tukush
 new tukush
+<<<<<<< HEAD
 labib returns
 original labib
+=======
+tukush returns
+>>>>>>> tukhor_sani
